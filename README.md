@@ -16,6 +16,7 @@
  [𝗥𝗼𝗰𝗸𝘆](http://t.me/everythingInIn)
 ,[𝗩𝗶𝗽 𝗕𝗼𝘆](http://t.me/THE_VIP_BOY)
 ,[𝗟𝘂𝗰𝗸𝘆](http://t.me/DX_LUCKY)
+,[𝗞𝗮𝘁𝗶𝗹](http://t.me/KATIL_YOUR_DAD)
  [𝗔𝗯𝗶𝘀𝗵𝗻𝗼𝗶](http://t.me/Abishnoi1M)
 ,[𝗔𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦](http://t.me/anonymous_was_bot)
 
