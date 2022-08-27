@@ -4,7 +4,13 @@
 </p>
 
 
-┏━━━━━━━━━❥
+- 🚶‍ &nbsp; I live in : India 🇮🇳 <br>
+- 👀 I’m interested in ... 👉 ##Fake World 🌍
+- 🌱 I’m currently learning ... ##C++, Python And Many More
+- 💞️ My Carrier ... [Carrier I don't Know what i do](https://youtube.com/stdgaming)
+- 📫 How to reach me ...[STD KING](https://t.me/STD_KING): DEEPANSHU
+- ⚡️ Fun-Fact: I'm Still Student;
+
 
 
 ## Github Stats
