@@ -3,8 +3,8 @@
  -->    <img align="middle" src="https://profile-counter.glitch.me/StdKing/count.svg" />
 </p>
 
-┏━━━━━━━━━❥
-┣ 𝗡𝗮𝗺𝗲​ ➪ 𝗗𝗘𝗘𝗣𝗔𝗡𝗦𝗛𝗨
+┏━━━━━━━━━❥ <br />
+┣ 𝗡𝗮𝗺𝗲​ ➪ 𝗗𝗘𝗘𝗣𝗔𝗡𝗦𝗛𝗨 <br />
 ┣ 𝗡𝗶𝗰𝗸 𝗡𝗮𝗺𝗲 ➪ 𝗦𝗧𝗗 <br />
 ┣ 𝗟𝗶𝘃𝗲 𝗶𝗻 ➪ 𝗥𝗮𝗷𝗮𝘀𝘁𝗵𝗮𝗻 <br />
 ┗━━━━━━━━━❥
