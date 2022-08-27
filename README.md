@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @StdKing
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+> For business - **kushal.vstart@gmail.com**
 
-<!---
-StdKing/StdKing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Github Stats
+![STD KING GitHub stats](https://github-readme-stats.vercel.app/api?username=StdKing&show_icons=true&theme=synthwave) &nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StdKing&layout=compact&show_icons=true&theme=synthwave)
+
+
+# Activity Graph
+
+
+![StdKing GitHub Graph](https://activity-graph.herokuapp.com/graph?username=StdKing&custom_title=My%20Graph&bg_color=241731&line=f20f80&color=f52f91&point=fdf5ea&hide_border=true&area=false&area_color=fdf5ea)
