@@ -7,7 +7,7 @@
 - 𝗡𝗮𝗺𝗲​ ➪ 𝗗𝗘𝗘𝗣𝗔𝗡𝗦𝗛𝗨 𝗠𝗘𝗘𝗡𝗔
 - 𝗡𝗶𝗰𝗸 𝗡𝗮𝗺𝗲 ➪ 𝗦𝗧𝗗 <br />
 - 𝗟𝗶𝘃𝗲 𝗶𝗻 ➪ 𝗥𝗮𝗷𝗮𝘀𝘁𝗵𝗮𝗻 <br />
-- 𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗳𝗼𝗿 - [𝗧𝗲𝗮𝗺 𝗦𝗧𝗗 𝗡𝗲𝘁𝘄𝗼𝗿𝗸](https://t.me/Team_STD_Network) <br />
+- 𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗳𝗼𝗿 - [𝗧𝗲𝗮𝗺 𝗦𝗧𝗗](https://t.me/Team_STD_Network) <br />
 - 👀 I’m interested in ... 👉 ##Fake World 🌍
 - 🌱 I’m currently learning ... ##C++, Python And Many More
 - 💞️ My Carrier ... [Carrier I don't Know what i do](https://youtube.com/stdgaming)
