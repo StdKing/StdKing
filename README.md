@@ -52,11 +52,7 @@ You can use this api: https://github.com/StdKing/github-readme-stats
 ### Support & Updates ❤️ ❤️
 <a href="https://t.me/STD_FRIENDS_CLUB"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Team_STD_Network"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a> 
 
- ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
+ ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs ᴀɴᴅ ɢʀᴀᴘʜ </h1>
 
 [<img src="https://github-readme-stats.vercel.app/api?username=StdKing&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/StdKing)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=StdKing&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/StdKing)
-
-# Activity Graph
-
-
 ![StdKing GitHub Graph](https://activity-graph.herokuapp.com/graph?username=StdKing&custom_title=My%20Graph&bg_color=241731&line=f20f80&color=f52f91&point=fdf5ea&hide_border=true&area=false&area_color=fdf5ea)
