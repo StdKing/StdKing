@@ -33,7 +33,7 @@ You can use this api: https://github.com/StdKing/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/railway/railway-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/c++/c++-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
 </p>
 
