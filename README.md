@@ -10,6 +10,13 @@
 ![STD KING GitHub stats](https://github-readme-stats.vercel.app/api?username=StdKing&show_icons=true&theme=synthwave) &nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StdKing&layout=compact&show_icons=true&theme=synthwave)
 
+<!-- Your github readme stats
+You can use this api: https://github.com/StdKing/github-readme-stats
+-->
+<p>
+  <a href="https://github.com/StdKing/handle-path-oz">
+    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=StdKing&layout=compact&show_icons=true&theme=radical&cache_seconds=1800" />
+  </a>
 
 <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
