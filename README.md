@@ -4,7 +4,9 @@
 </p>
 
 
-- 🚶‍ &nbsp; I live in : India 🇮🇳 <br>
+- 𝗡𝗮𝗺𝗲​ ➪ 𝗗𝗘𝗘𝗣𝗔𝗡𝗦𝗛𝗨 𝗠𝗘𝗘𝗡𝗔
+  𝗡𝗶𝗰𝗸 𝗡𝗮𝗺𝗲 ➪ 𝗦𝗧𝗗
+  𝗟𝗶𝘃𝗲 𝗶𝗻 ➪ 𝗥𝗮𝗷𝗮𝘀𝘁𝗵𝗮𝗻
 - 👀 I’m interested in ... 👉 ##Fake World 🌍
 - 🌱 I’m currently learning ... ##C++, Python And Many More
 - 💞️ My Carrier ... [Carrier I don't Know what i do](https://youtube.com/stdgaming)
