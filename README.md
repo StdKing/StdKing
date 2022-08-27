@@ -3,10 +3,11 @@
  -->    <img align="middle" src="https://profile-counter.glitch.me/StdKing/count.svg" />
 </p>
 
-
-- 𝗡𝗮𝗺𝗲​ ➪ 𝗗𝗘𝗘𝗣𝗔𝗡𝗦𝗛𝗨
-- 𝗡𝗶𝗰𝗸 𝗡𝗮𝗺𝗲 ➪ 𝗦𝗧𝗗 <br />
-- 𝗟𝗶𝘃𝗲 𝗶𝗻 ➪ 𝗥𝗮𝗷𝗮𝘀𝘁𝗵𝗮𝗻 <br />
+┏━━━━━━━━━❥
+┣ 𝗡𝗮𝗺𝗲​ ➪ 𝗗𝗘𝗘𝗣𝗔𝗡𝗦𝗛𝗨
+┣ 𝗡𝗶𝗰𝗸 𝗡𝗮𝗺𝗲 ➪ 𝗦𝗧𝗗 <br />
+┣ 𝗟𝗶𝘃𝗲 𝗶𝗻 ➪ 𝗥𝗮𝗷𝗮𝘀𝘁𝗵𝗮𝗻 <br />
+┗━━━━━━━━━❥
 - 𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗳𝗼𝗿 - [𝗧𝗲𝗮𝗺 𝗦𝗧𝗗](https://t.me/Team_STD_Network) <br />
 - 𝗙𝗿𝗶𝗲𝗻𝗱𝘀 :- <br />
  [𝗦𝘂𝗻𝗻𝘆](http://t.me/Sunny_meena)
