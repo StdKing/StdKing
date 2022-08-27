@@ -13,8 +13,8 @@
 ,[𝗧𝗮𝗻𝗶𝘀𝗵𝗸](http://t.me/TanishkSharma09)
 , 𝗦𝗵𝘂𝗯𝗵
 ,[𝗗𝗲𝘃](http://t.me/Dev_arora_0981)
-,[𝗥𝗼𝗰𝗸𝘆](http://t.me/everythingInIn)
- [𝗩𝗶𝗽 𝗕𝗼𝘆](http://t.me/THE_VIP_BOY)
+ [𝗥𝗼𝗰𝗸𝘆](http://t.me/everythingInIn)
+,[𝗩𝗶𝗽 𝗕𝗼𝘆](http://t.me/THE_VIP_BOY)
 ,[𝗟𝘂𝗰𝗸𝘆](http://t.me/DX_LUCKY)
  [𝗔𝗯𝗶𝘀𝗵𝗻𝗼𝗶](http://t.me/Abishnoi1M)
 ,[𝗔𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦](http://t.me/anonymous_was_bot)
