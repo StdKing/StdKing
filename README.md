@@ -10,8 +10,10 @@
 - 𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗳𝗼𝗿 - [𝗧𝗲𝗮𝗺 𝗦𝗧𝗗](https://t.me/Team_STD_Network) <br />
 - 𝗙𝗿𝗶𝗲𝗻𝗱𝘀 <br />
 ➪ [𝗦𝘂𝗻𝗻𝘆](http://t.me/Sunny_meena)
-;  [𝗧𝗮𝗻𝗶𝘀𝗵𝗸](http://t.me/TanishkSharma09)
-➪
+ , [𝗧𝗮𝗻𝗶𝘀𝗵𝗸](http://t.me/TanishkSharma09)
+ , [𝗦𝗵𝘂𝗯𝗵](http://t.me/
+ , [𝗗𝗲𝘃](http://t.me/Dev_arora_0981)
+
 
 
 ## Github Stats
