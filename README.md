@@ -31,6 +31,7 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 </p>
 
+<p align="center"> <a href="https://github.com/StdKing"><img src="https://github-profile-trophy.vercel.app/?username=StdKing&theme=radical&row=1&no-frame=true&no-bg=true" alt="StdKing" /></a> </p>
 
 # Activity Graph
 
