@@ -1,4 +1,7 @@
-
+<p align="center">
+    <b>ᴠɪsɪᴛᴏʀs</b><br>
+ -->    <img align="middle" src="https://profile-counter.glitch.me/StdKing/count.svg" />
+</p>
 
 
 > For business - **kushal.vstart@gmail.com**
