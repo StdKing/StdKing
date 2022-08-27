@@ -15,7 +15,7 @@
 ,[𝗗𝗲𝘃](http://t.me/Dev_arora_0981)
  [𝗩𝗶𝗽 𝗕𝗼𝘆](http://t.me/THE_VIP_BOY)
 ,[𝗟𝘂𝗰𝗸𝘆](http://t.me/DX_LUCKY)
-,[
+,[𝗥𝗼𝗰𝗸𝘆](http://t.me/everythingInIn)
 
 
 
