@@ -16,5 +16,4 @@
 
 
 <IMG SRC="https://komarev.com/ghpvc/?username=StdKing&color=brightgreen&label=PROFILE+VIEWS"><br>
-<IMG Src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FItsmeHyper131212%2Fhit-counter">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/StdKing?color=black&label=Followers&logo=STD-AD&logoColor=green&style=social">
