@@ -17,3 +17,7 @@
 
 <IMG SRC="https://komarev.com/ghpvc/?username=StdKing&color=brightgreen&label=PROFILE+VIEWS"><br>
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/StdKing?color=black&label=Followers&logo=STD-AD&logoColor=green&style=social">
+
+[![𝗖𝗛𝗔𝗡𝗡𝗘𝗟](https://img.shields.io/badge/Channel-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Team_STD_Network) 
+
+[![𝗦𝗨𝗣𝗣𝗢𝗥𝗧](https://img.shields.io/badge/Support-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/STD_FRIENDS_CLUB)
