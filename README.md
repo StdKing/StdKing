@@ -29,7 +29,6 @@
 ### Support & Updates ❤️ ❤️
 <a href="https://t.me/STD_FRIENDS_CLUB"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Team_STD_Network"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a> 
 
-
-<h1> <img src = "https://github.com//AnonymousR1025/blob/master/resources/analytics.webp" width="57px"> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
+ ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
 
 [<img src="https://github-readme-stats.vercel.app/api?username=StdKing&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/StdKing)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=StdKing&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/StdKing)
