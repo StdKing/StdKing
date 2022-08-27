@@ -1,3 +1,6 @@
+
+
+
 > For business - **kushal.vstart@gmail.com**
 
 ## Github Stats
@@ -9,3 +12,9 @@
 
 
 ![StdKing GitHub Graph](https://activity-graph.herokuapp.com/graph?username=StdKing&custom_title=My%20Graph&bg_color=241731&line=f20f80&color=f52f91&point=fdf5ea&hide_border=true&area=false&area_color=fdf5ea)
+
+
+
+<IMG SRC="https://komarev.com/ghpvc/?username=StdKing&color=brightgreen&label=PROFILE+VIEWS"><br>
+<IMG Src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FItsmeHyper131212%2Fhit-counter">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/StdKing?color=black&label=Followers&logo=STD-AD&logoColor=green&style=social">
