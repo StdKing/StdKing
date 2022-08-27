@@ -18,16 +18,10 @@
 <IMG SRC="https://komarev.com/ghpvc/?username=StdKing&color=brightgreen&label=PROFILE+VIEWS"><br>
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/StdKing?color=black&label=Followers&logo=STD-AD&logoColor=green&style=social">
 
-[![𝗖𝗛𝗔𝗡𝗡𝗘𝗟](https://img.shields.io/badge/Channel-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Team_STD_Network) 
-
-[![𝗦𝗨𝗣𝗣𝗢𝗥𝗧](https://img.shields.io/badge/Support-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/STD_FRIENDS_CLUB)
 
 <h1> <img src="https://te.legra.ph/file/1f5f400d5a16ae3a89343.jpg" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 
 [<img src="https://te.legra.ph/file/3f6810f790713b26fe826.jpg" width="60px">](https://t.me/STD_KING) [<img src="https://te.legra.ph/file/2a7a17fc66a8f5fe785c3.jpg" width="60px">](https://github.com/StdKing) 
 
-## Join My Group 🇮🇳 ❤️
-<a href="https://t.me/STD_FRIENDS_CLUB" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
 ### Support & Updates ❤️ ❤️
-<a href="https://t.me/Team_STD_Network"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Abishnoi1M"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
-<!-- Your support, if you have it 
+<a href="https://t.me/STD_FRIENDS_CLUB"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Team_STD_Network"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a> 
