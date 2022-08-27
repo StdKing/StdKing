@@ -7,7 +7,6 @@
 > For business - **kushal.vstart@gmail.com**
 
 ## Github Stats
-![STD KING GitHub stats](https://github-readme-stats.vercel.app/api?username=StdKing&show_icons=true&theme=synthwave) &nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StdKing&layout=compact&show_icons=true&theme=synthwave)
 
 <!-- Your github readme stats
