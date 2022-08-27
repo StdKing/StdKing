@@ -39,11 +39,6 @@ You can use this api: https://github.com/StdKing/github-readme-stats
 
 <p align="center"> <a href="https://github.com/StdKing"><img src="https://github-profile-trophy.vercel.app/?username=StdKing&theme=radical&row=1&no-frame=true&no-bg=true" alt="StdKing" /></a> </p>
 
-# Activity Graph
-
-
-![StdKing GitHub Graph](https://activity-graph.herokuapp.com/graph?username=StdKing&custom_title=My%20Graph&bg_color=241731&line=f20f80&color=f52f91&point=fdf5ea&hide_border=true&area=false&area_color=fdf5ea)
-
 
 
 <IMG SRC="https://komarev.com/ghpvc/?username=StdKing&color=brightgreen&label=PROFILE+VIEWS"><br>
@@ -60,3 +55,8 @@ You can use this api: https://github.com/StdKing/github-readme-stats
  ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
 
 [<img src="https://github-readme-stats.vercel.app/api?username=StdKing&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/StdKing)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=StdKing&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/StdKing)
+
+# Activity Graph
+
+
+![StdKing GitHub Graph](https://activity-graph.herokuapp.com/graph?username=StdKing&custom_title=My%20Graph&bg_color=241731&line=f20f80&color=f52f91&point=fdf5ea&hide_border=true&area=false&area_color=fdf5ea)
