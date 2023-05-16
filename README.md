@@ -14,8 +14,8 @@
 
 ┏━━━━━━━━━━━━━♡
   𝗙𝗿𝗶𝗲𝗻𝗱𝘀 :- <br />
-╠ [𝗦𝘂𝗻𝗻𝘆](http://t.me/Sunny_meena)<br />
-╠ [𝗧𝗮𝗻𝗶𝘀𝗵𝗸](http://t.me/TanishkSharma09)<br />
+╠ [𝗦𝘂𝗻𝗻𝘆](http://t.me/STD_SUNNY)<br />
+╠ [𝗧𝗮𝗻𝗶𝘀𝗵𝗸](http://t.me/STD_TANISHK)<br />
 ╠ 𝗦𝗵𝘂𝗯𝗵<br />
 ╠ [𝗗𝗲𝘃](http://t.me/Dev_arora_0981)<br />
 ╠ [𝗥𝗼𝗰𝗸𝘆](http://t.me/everythingInIn)<br />
